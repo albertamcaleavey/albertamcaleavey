@@ -2,7 +2,7 @@
 
 ### About Me 
 I'm Alberta- a Software Engineering student at General Assembly who loves to design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
-
+<!--
 ### My hobbies include:
 📷 film photography  
 🎹 piano  
@@ -10,7 +10,7 @@ I'm Alberta- a Software Engineering student at General Assembly who loves to des
 ⚽️ soccer  
 ♻️ sustainable fashion  
 🎸 guitar  
-
+-->
 ---  
 
 ### Skills
