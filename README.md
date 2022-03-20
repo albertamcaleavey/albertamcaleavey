@@ -1,9 +1,11 @@
-### Hi there! 
-I'm a Full- Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. I believe in creating accessible digital solutions with eye catching user interfaces that improve lives, and am looking to work with a team who values transparent communication in a collaborative environment. 
+### Hi there!
+I'm a Software Engineering student at General Assembly with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. I believe in creating accessible digital solutions with eye catching user interfaces that improve lives, and am looking to work with a team who values transparent communication in a collaborative environment. 
+I love to stay active in my free time 
+
+--- 
 
 ### Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
@@ -13,6 +15,9 @@ I'm a Full- Stack Developer with a passion for design. With a background in web 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
+
+---  
+
 
 
 <!--
