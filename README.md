@@ -13,7 +13,6 @@ I'm Alberta- a Software Engineering student at General Assembly. With a backgrou
 -->
 
 ---  
-### Stats  
 ![Alberta's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertamcaleavey&count_private=true&hide=stars&show_icons=true&theme=swift)
 
 ### Skills
