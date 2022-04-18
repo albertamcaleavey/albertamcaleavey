@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Alberta- a Software Engineering student at General Assembly. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
+I'm Alberta- a Software Engineering student at General Assembly. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 
 <!--
 ### My hobbies include:
