@@ -1,8 +1,9 @@
 ## Hi there! 👋
 
 <!-- ![Imgur](https://i.imgur.com/cIpGExL.png =20x20) -->
-
-<img src="https://i.imgur.com/cIpGExL.png" width="100" height="100" align="center" />
+<div align="center"> 
+  <img src="https://i.imgur.com/cIpGExL.png" width="100" height="100" />
+</div>
 
 I'm Alberta- a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 
