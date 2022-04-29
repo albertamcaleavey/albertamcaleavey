@@ -12,7 +12,7 @@
   <h1>Hi there!</h1>
 </div>
 
-<h2>About Me</h2>
+<!-- <h2 align="center">About Me</h2> -->
 <p>
   I'm a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 </p>
@@ -33,7 +33,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>
 </div>
 
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a> 
