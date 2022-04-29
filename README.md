@@ -1,6 +1,3 @@
-<!-- <div align="center"> 
-  <h1>Hi there!</h1>
-</div> -->
 <div align="center"> 
   <img src="https://i.imgur.com/cIpGExL.png" width="230" height="200" />  
  
@@ -8,7 +5,7 @@
   <a href="https://www.albertamcaleavey.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </div>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Hi there!</h2>
 <p>
   I'm a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 </p>
@@ -25,8 +22,8 @@
 
 ---  
 <div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>  
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertamcaleavey&count_private=true&hide=stars&show_icons=true&theme=swift" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>
 </div>
 
 <h2 align="center">Skills</h2>
