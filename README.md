@@ -12,7 +12,7 @@
   <h1>Hi there!</h1>
 </div>
 
-<!-- <h2 align="center">About Me</h2> -->
+<h2 align="center">About Me</h2>
 <p>
   I'm a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 </p>
