@@ -1,7 +1,10 @@
 <!-- ![Imgur](https://i.imgur.com/cIpGExL.png =20x20) -->
 <div align="center"> 
   <img src="https://i.imgur.com/cIpGExL.png" width="100" height="100" />
-  ## Hi there! 👋
+</div>
+
+<div align="center"> 
+  <h2>Hi there! 👋</h2>
 </div>
 
 <div align="center"> 
