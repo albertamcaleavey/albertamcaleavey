@@ -1,6 +1,6 @@
-<!-- <div align="center"> 
+<div align="center"> 
   <h1>Hi there!</h1>
-</div> -->
+</div>
 <div align="center"> 
   <img src="https://i.imgur.com/cIpGExL.png" width="230" height="200" />  
  
@@ -8,9 +8,9 @@
   <a href="https://www.albertamcaleavey.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
   <h1>Hi there!</h1>
-</div>
+</div> -->
 
 <h2 align="center">About Me</h2>
 <p>
@@ -28,7 +28,7 @@
 -->
 
 ---  
-<div >
+<div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertamcaleavey&count_private=true&hide=stars&show_icons=true&theme=swift" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>
 </div>
