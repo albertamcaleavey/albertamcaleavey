@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://i.imgur.com/cIpGExL.png" width="230" height="200" />  
+  <img src="https://i.imgur.com/cIpGExL.png" width="200" height="170" />  
  
   <a href="https://www.linkedin.com/in/alberta-mcaleavey/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.albertamcaleavey.com" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
