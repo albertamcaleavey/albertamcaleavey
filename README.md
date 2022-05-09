@@ -7,7 +7,8 @@
 
 <h2 align="center">Hi there!</h2>
 <p>
-  I'm a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
+  I'm Alberta, a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
+<!--   When I'm not coding you can find me out for a run or playing guitar and piano. -->
 </p>
 
 ---  
@@ -23,6 +24,7 @@
   <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
   <a href="#"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
