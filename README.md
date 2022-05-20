@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">  
   <img src="https://i.imgur.com/cIpGExL.png" width="200" height="170" />  
  
   <a href="https://www.linkedin.com/in/alberta-mcaleavey/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
