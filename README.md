@@ -10,7 +10,7 @@
   I'm Alberta, a Full Stack Developer with a passion for design. With a background in web design and content management, I have an eye for detail and skill for translating client visions into quality products. As a developer, I believe in creating well designed, accessible digital solutions with eye catching user interfaces that improve lives.
 </p>
 
-
+---  
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>  
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertamcaleavey&count_private=true&hide=stars&show_icons=true&theme=swift" /></a>
