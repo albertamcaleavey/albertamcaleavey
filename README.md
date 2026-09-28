@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/cIpGExL.png" width="200" height="170" />  
  
   <a href="https://www.linkedin.com/in/alberta-mcaleavey/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.albertamcaleavey.com" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </div>
 
 <h2 align="center">Hi there!</h2>
@@ -11,10 +10,6 @@
 </p>
 
 ---  
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertamcaleavey&layout=compact&theme=swift" /></a>  
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=albertamcaleavey&count_private=true&hide=stars&show_icons=true&theme=swift" /></a>
-</div>
 
 <h2 align="center">Skills</h2>
 <div align="center">
